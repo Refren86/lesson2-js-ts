@@ -1,1 +1,1 @@
-"# lesson2-js-ts" 
+Lesson 2 tasks
